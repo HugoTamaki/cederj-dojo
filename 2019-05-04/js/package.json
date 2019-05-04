@@ -1,0 +1,14 @@
+{
+  "name": "2019-05-04",
+  "version": "1.0.0",
+  "description": "dojo",
+  "main": "test.js",
+  "scripts": {
+  "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
